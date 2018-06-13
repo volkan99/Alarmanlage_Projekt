@@ -1,5 +1,5 @@
 import serial
-
+#numpy test 123
 arduino = serial.Serial('/dev/cu.usbmodem1411', 9600)
 
 def An_Aus_Funktion():
