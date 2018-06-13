@@ -13,9 +13,6 @@ void setup()
 
 void loop() 
 {
-  //int s = digitalRead(pirPin);
-  //digitalWrite(ledPin, s);
-  
  if (digitalRead(pirPin) == HIGH) 
    {
     digitalWrite(ledPin,HIGH);
