@@ -81,7 +81,6 @@ def deaktivieren():
         
 
 
-
 Alarmanlage= Tk()
 
 Alarmanlage.title ("Alarmanlage-Menü")
