@@ -6,7 +6,6 @@
 SoftwareSerial esp_serial(3, 2);
 EspServer esp_server;
 
-
 int ledPin1 = 13;
 int ledPin2 = 12;
 int pirPin = 8;
