@@ -34,7 +34,7 @@ def deaktivieren():
         false_label.place         (x= 0, y=330, width=250, height= 30)
         antwort_label.place       (x= 0, y=0, width=0, height= 0)
         eingabefeld.delete(0,END)
-        false_label.config(text="Anlage bereits deaktiv")
+        false_label.config(text="Anlage bereits inaktiv")
 
         
     if( status == 1):
